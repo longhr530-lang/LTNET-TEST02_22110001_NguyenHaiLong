@@ -8,7 +8,7 @@
 * **Lớp học phần:** Lập trình .NET 
 * **Lớp: D19QTANM1
   
-* **Link Repository:https://github.com/longhr530-lang/baiktra23-10/edit/main/README.md
+* **Link Repository:https://github.com/longhr530-lang/LTNET-TEST02_22110001_NguyenHaiLong
 
 ## II. DANH SÁCH BÀI TẬP HOÀN THÀNH & TỰ ĐÁNH GIÁ
 
