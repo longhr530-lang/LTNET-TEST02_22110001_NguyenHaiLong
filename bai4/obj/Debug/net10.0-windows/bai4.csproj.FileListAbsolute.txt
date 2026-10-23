@@ -1,0 +1,34 @@
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\bin\Debug\net10.0-windows\bai4.exe
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\bin\Debug\net10.0-windows\bai4.deps.json
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\bin\Debug\net10.0-windows\bai4.runtimeconfig.json
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\bin\Debug\net10.0-windows\bai4.dll
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\bin\Debug\net10.0-windows\bai4.pdb
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\bai4.Form1.resources
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\bai4.csproj.GenerateResource.cache
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\bai4.AssemblyInfoInputs.cache
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\bai4.AssemblyInfo.cs
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\bai4.csproj.CoreCompileInputs.cache
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\bai4.dll
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\refint\bai4.dll
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\bai4.pdb
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\bai4.genruntimeconfig.cache
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\ref\bai4.dll
+D:\laptrinh.net\Trần Hoài Nam-2310-24810320642\bai4\obj\Debug\net10.0-windows\bai4.csproj.Up2Date
+C:\Users\ASUS\OneDrive\visual\bai4\bin\Debug\net10.0-windows\bai4.exe
+C:\Users\ASUS\OneDrive\visual\bai4\bin\Debug\net10.0-windows\bai4.deps.json
+C:\Users\ASUS\OneDrive\visual\bai4\bin\Debug\net10.0-windows\bai4.runtimeconfig.json
+C:\Users\ASUS\OneDrive\visual\bai4\bin\Debug\net10.0-windows\bai4.dll
+C:\Users\ASUS\OneDrive\visual\bai4\bin\Debug\net10.0-windows\bai4.pdb
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\bai4.Form1.resources
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\bai4.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\bai4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\bai4.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\bai4.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\bai4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\bai4.dll
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\refint\bai4.dll
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\bai4.pdb
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\bai4.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\ref\bai4.dll
+C:\Users\ASUS\OneDrive\visual\bai4\obj\Debug\net10.0-windows\bai4.csproj.Up2Date
